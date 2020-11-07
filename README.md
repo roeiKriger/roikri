@@ -1,6 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
 - 🔭 I’m currently working on ... My Information Systems B.S.C focused in A.I
 - 🌱 I’m currently learning ...    Data Structures
