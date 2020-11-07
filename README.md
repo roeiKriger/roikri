@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning ...    Data Structures
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... roikriger@gmail.com or https://www.linkedin.com/in/roei-kriger-ba8b6b1ab <a href="https://www.linkedin.com/in/roei-kriger-ba8b6b1ab/">
-  <img align="left" alt="RoiKriger's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="rightt" alt="RoiKriger's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 - ⚡ Fun fact: ... I am in the Debate team in my university
