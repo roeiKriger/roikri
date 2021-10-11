@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-- 🔭 I’m currently working on my Information Systems B.Sc. focused in A.I
-- 🌱 I’m currently learning Inroduction to AI
+- 🔭 I’m currently working on my Information Systems B.Sc. focused in Software Development.
+- 🌱 I’m currently learning B.I
 - 💬 Ask me about anything
 - 📫 How to reach me: roeikriger1@gmail.com
   <img align="center" alt="RoiKriger's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a> or 
